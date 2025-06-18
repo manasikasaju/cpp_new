@@ -1,0 +1,55 @@
+{
+	"folders": [
+		{
+			"path": "../../OOP/.vscode"
+		},
+		{
+			"path": "../../OOP/11_Assignments"
+		},
+		{
+			"path": "../../OOP/11_Slides"
+		},
+		{
+			"path": "../../OOP/Access_specifiers"
+		},
+		{
+			"path": "../../OOP/Arrays"
+		},
+		{
+			"path": "../../OOP/Classes"
+		},
+		{
+			"path": "../../OOP/conditional"
+		},
+		{
+			"path": "../../OOP/Constructors"
+		},
+		{
+			"path": "../../OOP/Destructor"
+		},
+		{
+			"path": "../../OOP/Encapsulation"
+		},
+		{
+			"path": "../../OOP/Functions"
+		},
+		{
+			"path": "../../OOP/Inheritance"
+		},
+		{
+			"path": "../../OOP/Loops"
+		},
+		{
+			"path": "../../OOP/operators"
+		},
+		{
+			"path": "../../OOP/Static_Non_static_class_members"
+		},
+		{
+			"path": "../../OOP/String"
+		},
+		{
+			"path": "../../OOP/Vectors"
+		}
+	]
+}
